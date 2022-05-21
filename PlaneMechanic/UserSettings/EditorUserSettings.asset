@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 224247031146466f1f1b0962353b4f1c19041125223b69032e2c1336f1af663ccfe638f0c42f3d392a4cfa320d2a18
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 224247031146466f1f1b0962353b4f1c19041125223b69032e2c1336f1af3939ecfe15fce53f2c722c0ce6281d
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 224247031146466f1f1b0962353b4f1c19041125223b69032e2c1336f1af3631e5c834e3e2392b6e7717e1351027
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 224247031146466f1f1b0962353b4f1c19041125223b69032e2c1336f1af663ccee634f0f5233128314cfa320d2a18
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 224247031146466f1f1b0962353b4f1c19041125223b69032e2c1336f1af3631e5c834e3e2392b722c0ce6281d
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 224247031146466f1f1b0962353b4f1c19041125223b69032e2c1336f1af663cd1e235e6e93e0b392a16a1290a371526
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 224247031146466f1f1b0962353b4f1c19041125223b69032e2c1336f1af2339eeeb22ecf42e7129370bfb25
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 224247031146466f1f1b0962353b4f1c19041125223b69032e2c1336f1af273de1e838edd33f2c287717e1351027
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 224247031146466f1f1b0962353b4f1c19041125223b69032e2c1336f1af272cf0e225fad33f2c287717e1351027
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 224247031146466f1f1b0962353b4f1c19041125223b69032e2c1336f1af3c3de3f321e8f13f11331e10ee2a0d2a1871e704001fef
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
